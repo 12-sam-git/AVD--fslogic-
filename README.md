@@ -86,5 +86,4 @@ Azure | Cloud | DevOps Enthusiast
 This project is created for **learning, demonstration, and interview preparation purposes**.
 
 
-## 📂 Repository Structure
 
